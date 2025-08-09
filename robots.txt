@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mikeblanton.github.io/website-stest/sitemap.xml
